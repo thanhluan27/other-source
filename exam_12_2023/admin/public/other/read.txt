@@ -1,0 +1,47 @@
+<!-- jQuery -->
+<script src="public/other/jquery.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="public/other/jquery-ui.min.js"></script>
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+<script>
+  $.widget.bridge('uibutton', $.ui.button)
+</script>
+<!-- Bootstrap 4 -->
+<script src="public/other/bootstrap.bundle.min.js"></script>
+<!-- ChartJS -->
+<script src="public/other/Chart.min.js"></script>
+<!-- Sparkline -->
+<script src="public/other/sparkline.js"></script>
+<!-- JQVMap -->
+<script src="public/other/jquery.vmap.min.js"></script>
+<script src="public/other/jquery.vmap.usa.js"></script>
+<!-- jQuery Knob Chart -->
+<script src="public/other/jquery.knob.min.js"></script>
+<!-- daterangepicker -->
+<script src="public/other/moment.min.js"></script>
+<script src="public/other/daterangepicker.js"></script>
+<!-- Tempusdominus Bootstrap 4 -->
+<script src="public/other/tempusdominus-bootstrap-4.min.js"></script>
+<!-- Summernote -->
+<script src="public/other/summernote-bs4.min.js"></script>
+<!-- overlayScrollbars -->
+<script src="public/other/jquery.overlayScrollbars.min.js"></script>
+<!-- AdminLTE App -->
+<script src="public/other/adminlte.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="public/other/demo.js"></script>
+<!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+<script src="public/other/dashboard.js"></script>
+
+<script src="public/other/jquery.min.js'"></script>
+<!-- Bootstrap 4 -->
+<script src="public/other/bootstrap.bundle.min.js"></script>
+<!-- AdminLTE App -->
+<script src="public/other/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="public/other/demo.js"></script>
+</body>
+
+</html>
+
+_------------------------------_
